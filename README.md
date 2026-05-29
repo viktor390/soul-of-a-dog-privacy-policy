@@ -1,7 +1,9 @@
 # soul-of-a-dog-privacy-policy
+
 Privacy Policy for Soul of a Dog mobile game.
 
 Soul of a Dog Privacy Policy
+Last updated: 2026-05-29
 
 Soul of a Dog does not collect, store, or share any personal information.
 
